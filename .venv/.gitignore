@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.vscode/
+.idea/
+# Allow sample files in samples directory
+!samples/*.flac
+!samples/*.mp3

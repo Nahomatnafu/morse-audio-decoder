@@ -63,6 +63,10 @@ Thumbs.db
 *.log
 *.tmp
 
+# Generated MIDI files (test outputs)
+*.mid
+*.midi
+
 # Allow specific sample files needed for testing
 !samples/hello_ultrasonic*.flac
 !samples/hello_ultrasonic*.mp3
